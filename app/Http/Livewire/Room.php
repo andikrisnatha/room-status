@@ -89,7 +89,7 @@ class Room extends Component
 
         $this->dispatchBrowserEvent('swal:modal', [
             'status' => 'Horayyy!',
-            'message' => 'Room status updated',
+            'message' => 'Room status updated!',
             'type' => 'success',
         ]);
 
